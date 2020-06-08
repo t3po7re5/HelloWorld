@@ -7,3 +7,4 @@ throughput_tests:
   http_type: GET
   test_time_seconds: 5
   tps: 10
+  -headers:
